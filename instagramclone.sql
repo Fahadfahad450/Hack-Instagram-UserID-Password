@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `instadetails` (
   `id` int(11) NOT NULL,
-  `username` text NOT NULL,
+  `username` text itxza_inab7
   `password` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
